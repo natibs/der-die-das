@@ -6,3 +6,20 @@ build/
 *.iml
 .idea/
 local.properties
+
+# Local run/debug output
+setup.log
+shots/
+tool/wiktionary_cache/
+android/.kotlin/
+/*.txt
+/adb-diag.cmd
+/devices.cmd
+/fetch.cmd
+/fetch-common.cmd
+/logcat.cmd
+/mt-test.cmd
+/shot.cmd
+/tablet-test.cmd
+/zz-*.cmd
+/git-link.cmd
