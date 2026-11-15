@@ -1,0 +1,4048 @@
+[
+ {
+  "word": "Abend",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "evening"
+  ],
+  "he": [
+   "ערב"
+  ],
+  "plural": "Abende"
+ },
+ {
+  "word": "Abendbrot",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "dinner (evening meal)"
+  ],
+  "he": [
+   "ארוחת ערב"
+  ],
+  "plural": "Abendbrote"
+ },
+ {
+  "word": "Abteilung",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "department"
+  ],
+  "he": [
+   "מחלקה"
+  ],
+  "plural": "Abteilungen"
+ },
+ {
+  "word": "Adresse",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "address"
+  ],
+  "he": [
+   "כתובת"
+  ],
+  "plural": "Adressen"
+ },
+ {
+  "word": "Akku",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "battery (rechargeable)"
+  ],
+  "he": [
+   "סוללה"
+  ],
+  "plural": "Akkus"
+ },
+ {
+  "word": "Alkohol",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "alcohol"
+  ],
+  "he": [
+   "אלכוהול"
+  ],
+  "plural": "Alkohole"
+ },
+ {
+  "word": "Altstadt",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "old town"
+  ],
+  "he": [
+   "עיר עתיקה"
+  ],
+  "plural": "Altstädte"
+ },
+ {
+  "word": "Anfang",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "beginning"
+  ],
+  "he": [
+   "התחלה"
+  ],
+  "plural": "Anfänge"
+ },
+ {
+  "word": "Angst",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "fear"
+  ],
+  "he": [
+   "פחד"
+  ],
+  "plural": "Ängste"
+ },
+ {
+  "word": "Anzug",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "suit"
+  ],
+  "he": [
+   "חליפה"
+  ],
+  "plural": "Anzüge"
+ },
+ {
+  "word": "Apfel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "apple"
+  ],
+  "he": [
+   "תפוח"
+  ],
+  "plural": "Äpfel"
+ },
+ {
+  "word": "April",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "April"
+  ],
+  "he": [
+   "אפריל"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Arbeit",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "work"
+  ],
+  "he": [
+   "עבודה"
+  ],
+  "plural": "Arbeiten"
+ },
+ {
+  "word": "Artikel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "article"
+  ],
+  "he": [
+   "מאמר"
+  ],
+  "plural": "Artikel"
+ },
+ {
+  "word": "Arzt",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "doctor"
+  ],
+  "he": [
+   "רופא"
+  ],
+  "plural": "Ärzte"
+ },
+ {
+  "word": "Aufgabe",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "task"
+  ],
+  "he": [
+   "משימה"
+  ],
+  "plural": "Aufgaben"
+ },
+ {
+  "word": "Auge",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "eye"
+  ],
+  "he": [
+   "עין"
+  ],
+  "plural": "Augen"
+ },
+ {
+  "word": "August",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "August"
+  ],
+  "he": [
+   "אוגוסט"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Auto",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "car"
+  ],
+  "he": [
+   "אוטו"
+  ],
+  "plural": "Autos"
+ },
+ {
+  "word": "Bad",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "bath",
+   "bathtub"
+  ],
+  "he": [
+   "אמבטיה"
+  ],
+  "plural": "Bäder"
+ },
+ {
+  "word": "Baum",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "tree"
+  ],
+  "he": [
+   "עץ"
+  ],
+  "plural": "Bäume"
+ },
+ {
+  "word": "Beamtin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "official (f.)"
+  ],
+  "he": [
+   "פקידה"
+  ],
+  "plural": "Beamtinnen"
+ },
+ {
+  "word": "Bedeutung",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "meaning"
+  ],
+  "he": [
+   "משמעות"
+  ],
+  "plural": "Bedeutungen"
+ },
+ {
+  "word": "Bein",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "leg"
+  ],
+  "he": [
+   "רגל"
+  ],
+  "plural": "Beine"
+ },
+ {
+  "word": "Bekannte",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "acquaintance (f.)"
+  ],
+  "he": [
+   "מכרה"
+  ],
+  "plural": "Bekannten"
+ },
+ {
+  "word": "Berg",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "mountain"
+  ],
+  "he": [
+   "הר"
+  ],
+  "plural": "Berge"
+ },
+ {
+  "word": "Beruf",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "profession"
+  ],
+  "he": [
+   "מקצוע"
+  ],
+  "plural": "Berufe"
+ },
+ {
+  "word": "Bett",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "bed"
+  ],
+  "he": [
+   "מיטה"
+  ],
+  "plural": "Betten"
+ },
+ {
+  "word": "Bewegung",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "movement"
+  ],
+  "he": [
+   "תנועה"
+  ],
+  "plural": "Bewegungen"
+ },
+ {
+  "word": "Bibliothek",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "library"
+  ],
+  "he": [
+   "ספריה"
+  ],
+  "plural": "Bibliotheken"
+ },
+ {
+  "word": "Bild",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "picture"
+  ],
+  "he": [
+   "תמונה"
+  ],
+  "plural": "Bilder"
+ },
+ {
+  "word": "Blatt",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "leaf",
+   "sheet"
+  ],
+  "he": [
+   "עלה"
+  ],
+  "plural": "Blätter"
+ },
+ {
+  "word": "Bleistift",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "pencil"
+  ],
+  "he": [
+   "עיפרון"
+  ],
+  "plural": "Bleistifte"
+ },
+ {
+  "word": "Blume",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "flower"
+  ],
+  "he": [
+   "פרח"
+  ],
+  "plural": "Blumen"
+ },
+ {
+  "word": "Bluse",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "blouse"
+  ],
+  "he": [
+   "חולצת כפתורים (לאישה)"
+  ],
+  "plural": "Blusen"
+ },
+ {
+  "word": "Bohne",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "bean"
+  ],
+  "he": [
+   "שעועית"
+  ],
+  "plural": "Bohnen"
+ },
+ {
+  "word": "Braut",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "bride"
+  ],
+  "he": [
+   "כלה"
+  ],
+  "plural": "Bräute"
+ },
+ {
+  "word": "Brief",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "letter"
+  ],
+  "he": [
+   "מכתב"
+  ],
+  "plural": "Briefe"
+ },
+ {
+  "word": "Brille",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "glasses"
+  ],
+  "he": [
+   "משקפיים"
+  ],
+  "plural": "Brillen"
+ },
+ {
+  "word": "Brot",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "bread"
+  ],
+  "he": [
+   "לחם"
+  ],
+  "plural": "Brote"
+ },
+ {
+  "word": "Bruder",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "brother"
+  ],
+  "he": [
+   "אח"
+  ],
+  "plural": "Brüder"
+ },
+ {
+  "word": "Bräutigam",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "groom"
+  ],
+  "he": [
+   "חתן"
+  ],
+  "plural": "Bräutigame"
+ },
+ {
+  "word": "Buch",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "book"
+  ],
+  "he": [
+   "ספר"
+  ],
+  "plural": "Bücher"
+ },
+ {
+  "word": "Busfahrer",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "bus driver (m.)"
+  ],
+  "he": [
+   "נהג אוטובוס"
+  ],
+  "plural": "Busfahrer"
+ },
+ {
+  "word": "Busfahrerin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "bus driver (f.)"
+  ],
+  "he": [
+   "נהגת אוטובוס"
+  ],
+  "plural": "Busfahrerinnen"
+ },
+ {
+  "word": "Butter",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "butter"
+  ],
+  "he": [
+   "חמאה"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Bäcker",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "baker (m.)"
+  ],
+  "he": [
+   "או ֶּפה"
+  ],
+  "plural": "Bäcker"
+ },
+ {
+  "word": "Bäckerei",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "bakery"
+  ],
+  "he": [
+   "מאפייה"
+  ],
+  "plural": "Bäckereien"
+ },
+ {
+  "word": "Bäckerin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "baker (f.)"
+  ],
+  "he": [
+   "או ָפה"
+  ],
+  "plural": "Bäckerinnen"
+ },
+ {
+  "word": "Charakter",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "character"
+  ],
+  "he": [
+   "אופי"
+  ],
+  "plural": "Charaktere"
+ },
+ {
+  "word": "Chef",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "boss"
+  ],
+  "he": [
+   "בוס"
+  ],
+  "plural": "Chefs"
+ },
+ {
+  "word": "Computer",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "computer"
+  ],
+  "he": [
+   "מחשב"
+  ],
+  "plural": "Computer"
+ },
+ {
+  "word": "Cousin",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "cousin (m.)"
+  ],
+  "he": [
+   "בן דוד"
+  ],
+  "plural": "Cousins"
+ },
+ {
+  "word": "Dach",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "roof"
+  ],
+  "he": [
+   "גג"
+  ],
+  "plural": "Dächer"
+ },
+ {
+  "word": "Datum",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "date"
+  ],
+  "he": [
+   "תאריך"
+  ],
+  "plural": "Daten"
+ },
+ {
+  "word": "Dezember",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "December"
+  ],
+  "he": [
+   "דצמבר"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Dienstag",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "Tuesday"
+  ],
+  "he": [
+   "יום שלישי"
+  ],
+  "plural": "Dienstage"
+ },
+ {
+  "word": "Donnerstag",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "Thursday"
+  ],
+  "he": [
+   "יום חמישי"
+  ],
+  "plural": "Donnerstage"
+ },
+ {
+  "word": "Durst",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "thirst"
+  ],
+  "he": [
+   "צמא"
+  ],
+  "plural": null
+ },
+ {
+  "word": "E-Mail",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "email"
+  ],
+  "he": [
+   "אימייל"
+  ],
+  "plural": "E-Mails"
+ },
+ {
+  "word": "Ei",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "egg"
+  ],
+  "he": [
+   "ביצה"
+  ],
+  "plural": "Eier"
+ },
+ {
+  "word": "Einkauf",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "purchase",
+   "shopping"
+  ],
+  "he": [
+   "קניות"
+  ],
+  "plural": "Einkäufe"
+ },
+ {
+  "word": "Eltern",
+  "genders": [],
+  "en": [
+   "parents"
+  ],
+  "he": [
+   "הורים"
+  ],
+  "pluralOnly": true,
+  "plural": "Eltern"
+ },
+ {
+  "word": "Ende",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "end"
+  ],
+  "he": [
+   "סוף"
+  ],
+  "plural": "Enden"
+ },
+ {
+  "word": "Engel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "angel"
+  ],
+  "he": [
+   "מלאך"
+  ],
+  "plural": "Engel"
+ },
+ {
+  "word": "Enkel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "grandson"
+  ],
+  "he": [
+   "נכד"
+  ],
+  "plural": "Enkel"
+ },
+ {
+  "word": "Entschuldigung",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "excuse",
+   "apology"
+  ],
+  "he": [
+   "סליחה"
+  ],
+  "plural": "Entschuldigungen"
+ },
+ {
+  "word": "Fahrer",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "driver"
+  ],
+  "he": [
+   "נהג"
+  ],
+  "plural": "Fahrer"
+ },
+ {
+  "word": "Fahrgast",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "passenger"
+  ],
+  "he": [
+   "נוסע"
+  ],
+  "plural": "Fahrgäste"
+ },
+ {
+  "word": "Fahrrad",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "bicycle"
+  ],
+  "he": [
+   "אופניים"
+  ],
+  "plural": "Fahrräder"
+ },
+ {
+  "word": "Familie",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "family"
+  ],
+  "he": [
+   "משפחה"
+  ],
+  "plural": "Familien"
+ },
+ {
+  "word": "Farbe",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "color"
+  ],
+  "he": [
+   "צבע"
+  ],
+  "plural": "Farben"
+ },
+ {
+  "word": "Februar",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "February"
+  ],
+  "he": [
+   "פברואר"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Feier",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "party",
+   "celebration"
+  ],
+  "he": [
+   "חגיגה"
+  ],
+  "plural": "Feiern"
+ },
+ {
+  "word": "Fenster",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "window"
+  ],
+  "he": [
+   "חלון"
+  ],
+  "plural": "Fenster"
+ },
+ {
+  "word": "Fest",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "celebration",
+   "festival"
+  ],
+  "he": [
+   "סעודה",
+   "חגיגה"
+  ],
+  "plural": "Feste"
+ },
+ {
+  "word": "Feuerzeug",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "lighter"
+  ],
+  "he": [
+   "מצית"
+  ],
+  "plural": "Feuerzeuge"
+ },
+ {
+  "word": "Firma",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "company (firm)"
+  ],
+  "he": [
+   "חברה"
+  ],
+  "plural": "Firmaen"
+ },
+ {
+  "word": "Fitnessstudio",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "gym",
+   "fitness studio"
+  ],
+  "he": [
+   "חדר כושר"
+  ],
+  "plural": "Fitnessstudios"
+ },
+ {
+  "word": "Flasche",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "bottle"
+  ],
+  "he": [
+   "בקבוק"
+  ],
+  "plural": "Flaschen"
+ },
+ {
+  "word": "Fleisch",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "meat"
+  ],
+  "he": [
+   "בשר"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Flugticket",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "flight ticket"
+  ],
+  "he": [
+   "כרטיס טיסה"
+  ],
+  "plural": "Flugtickets"
+ },
+ {
+  "word": "Flugzeug",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "airplane"
+  ],
+  "he": [
+   "מטוס"
+  ],
+  "plural": "Flugzeuge"
+ },
+ {
+  "word": "Fluss",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "river"
+  ],
+  "he": [
+   "נהר"
+  ],
+  "plural": "Flüsse"
+ },
+ {
+  "word": "Foto",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "photo"
+  ],
+  "he": [
+   "תמונה"
+  ],
+  "plural": "Fotos"
+ },
+ {
+  "word": "Frage",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "question"
+  ],
+  "he": [
+   "שאלה"
+  ],
+  "plural": "Fragen"
+ },
+ {
+  "word": "Frau",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "woman",
+   "wife"
+  ],
+  "he": [
+   "אישה"
+  ],
+  "plural": "Frauen"
+ },
+ {
+  "word": "Freitag",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "Friday"
+  ],
+  "he": [
+   "יום שישי"
+  ],
+  "plural": "Freitage"
+ },
+ {
+  "word": "Freizeit",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "free time"
+  ],
+  "he": [
+   "זמן פנוי"
+  ],
+  "plural": "Freizeiten"
+ },
+ {
+  "word": "Freund",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "friend (m.)"
+  ],
+  "he": [
+   "חבר"
+  ],
+  "plural": "Freunde"
+ },
+ {
+  "word": "Freundin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "friend (f.)"
+  ],
+  "he": [
+   "חברה"
+  ],
+  "plural": "Freundinnen"
+ },
+ {
+  "word": "Friseur",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "hairdresser"
+  ],
+  "he": [
+   "ספר"
+  ],
+  "plural": "Friseure"
+ },
+ {
+  "word": "Frühling",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "spring"
+  ],
+  "he": [
+   "אביב"
+  ],
+  "plural": "Frühlinge"
+ },
+ {
+  "word": "Frühstück",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "breakfast"
+  ],
+  "he": [
+   "ארוחת בוקר"
+  ],
+  "plural": "Frühstücke"
+ },
+ {
+  "word": "Fußball",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "football",
+   "soccer"
+  ],
+  "he": [
+   "כדורגל"
+  ],
+  "plural": "Fußbälle"
+ },
+ {
+  "word": "Führerschein",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "driver's license"
+  ],
+  "he": [
+   "רישיון נהיגה"
+  ],
+  "plural": "Führerscheine"
+ },
+ {
+  "word": "Gabel",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "fork"
+  ],
+  "he": [
+   "מזלג"
+  ],
+  "plural": "Gabeln"
+ },
+ {
+  "word": "Gast",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "guest"
+  ],
+  "he": [
+   "אורח"
+  ],
+  "plural": "Gäste"
+ },
+ {
+  "word": "Geburtstag",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "birthday"
+  ],
+  "he": [
+   "יום הולדת"
+  ],
+  "plural": "Geburtstage"
+ },
+ {
+  "word": "Geduld",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "patience"
+  ],
+  "he": [
+   "סבלנות"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Gefallen",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "favor"
+  ],
+  "he": [
+   "טובה"
+  ],
+  "plural": "Gefallen"
+ },
+ {
+  "word": "Geld",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "money"
+  ],
+  "he": [
+   "כסף"
+  ],
+  "plural": "Gelder"
+ },
+ {
+  "word": "Gemüse",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "vegetables"
+  ],
+  "he": [
+   "ירקות"
+  ],
+  "plural": "Gemüse"
+ },
+ {
+  "word": "Geschenk",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "gift"
+  ],
+  "he": [
+   "מתנה"
+  ],
+  "plural": "Geschenke"
+ },
+ {
+  "word": "Geschichte",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "story"
+  ],
+  "he": [
+   "סיפור",
+   "היסטוריה"
+  ],
+  "plural": "Geschichten"
+ },
+ {
+  "word": "Geschmack",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "taste"
+  ],
+  "he": [
+   "טעם"
+  ],
+  "plural": "Geschmäcke"
+ },
+ {
+  "word": "Gespräch",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "conversation"
+  ],
+  "he": [
+   "שיחה"
+  ],
+  "plural": "Gespräche"
+ },
+ {
+  "word": "Glas",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "glass"
+  ],
+  "he": [
+   "כוס"
+  ],
+  "plural": "Gläser"
+ },
+ {
+  "word": "Glück",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "luck",
+   "happiness"
+  ],
+  "he": [
+   "מזל"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Haferflocke",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "oat flake"
+  ],
+  "he": [
+   "דייסת קוואקר"
+  ],
+  "plural": "Haferflocken"
+ },
+ {
+  "word": "Hand",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "hand"
+  ],
+  "he": [
+   "יד"
+  ],
+  "plural": "Hände"
+ },
+ {
+  "word": "Handy",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "cell phone"
+  ],
+  "he": [
+   "טלפון נייד"
+  ],
+  "plural": "Handys"
+ },
+ {
+  "word": "Handynummer",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "cell phone number"
+  ],
+  "he": [
+   "מספר נייד"
+  ],
+  "plural": "Handynummern"
+ },
+ {
+  "word": "Haus",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "house"
+  ],
+  "he": [
+   "בית"
+  ],
+  "plural": "Häuser"
+ },
+ {
+  "word": "Hausaufgabe",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "homework"
+  ],
+  "he": [
+   "שיעורי בית"
+  ],
+  "plural": "Hausaufgaben"
+ },
+ {
+  "word": "Hausmeister",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "caretaker",
+   "janitor"
+  ],
+  "he": [
+   "אב בית"
+  ],
+  "plural": "Hausmeister"
+ },
+ {
+  "word": "Heft",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "notebook"
+  ],
+  "he": [
+   "מחברת"
+  ],
+  "plural": "Hefte"
+ },
+ {
+  "word": "Hemd",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "shirt (men's)"
+  ],
+  "he": [
+   "חולצת כפתורים (לגבר)"
+  ],
+  "plural": "Hemden"
+ },
+ {
+  "word": "Herbst",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "autumn"
+  ],
+  "he": [
+   "סתיו"
+  ],
+  "plural": "Herbste"
+ },
+ {
+  "word": "Herr",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "Mr.",
+   "gentleman"
+  ],
+  "he": [
+   "אדון"
+  ],
+  "plural": "Herren"
+ },
+ {
+  "word": "Hilfe",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "help"
+  ],
+  "he": [
+   "עזרה"
+  ],
+  "plural": "Hilfen"
+ },
+ {
+  "word": "Hochzeit",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "wedding"
+  ],
+  "he": [
+   "חתונה"
+  ],
+  "plural": "Hochzeiten"
+ },
+ {
+  "word": "Holz",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "wood"
+  ],
+  "he": [
+   "עץ (החומר)"
+  ],
+  "plural": "Hölzer"
+ },
+ {
+  "word": "Homeoffice",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "home office"
+  ],
+  "he": [
+   "עבודה מהבית"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Hose",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "pants",
+   "trousers"
+  ],
+  "he": [
+   "מכנסיים"
+  ],
+  "plural": "Hosen"
+ },
+ {
+  "word": "Hund",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "dog"
+  ],
+  "he": [
+   "כלב"
+  ],
+  "plural": "Hunde"
+ },
+ {
+  "word": "Hunger",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "hunger"
+  ],
+  "he": [
+   "רעב"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Ingenieur",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "engineer (m.)"
+  ],
+  "he": [
+   "מהנדס"
+  ],
+  "plural": "Ingenieure"
+ },
+ {
+  "word": "Ingenieurin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "engineer (f.)"
+  ],
+  "he": [
+   "מהנדסת"
+  ],
+  "plural": "Ingenieurinnen"
+ },
+ {
+  "word": "Jahr",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "year"
+  ],
+  "he": [
+   "שנה"
+  ],
+  "plural": "Jahre"
+ },
+ {
+  "word": "Januar",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "January"
+  ],
+  "he": [
+   "ינואר"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Juli",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "July"
+  ],
+  "he": [
+   "יולי"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Juni",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "June"
+  ],
+  "he": [
+   "יוני"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Kanal",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "channel"
+  ],
+  "he": [
+   "תעלה"
+  ],
+  "plural": "Kanäle"
+ },
+ {
+  "word": "Karriere",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "career"
+  ],
+  "he": [
+   "קריירה"
+  ],
+  "plural": "Karrieren"
+ },
+ {
+  "word": "Katze",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "cat"
+  ],
+  "he": [
+   "חתול"
+  ],
+  "plural": "Katzen"
+ },
+ {
+  "word": "Kellner",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "waiter"
+  ],
+  "he": [
+   "מלצר"
+  ],
+  "plural": "Kellner"
+ },
+ {
+  "word": "Kellnerin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "waitress"
+  ],
+  "he": [
+   "מלצרית"
+  ],
+  "plural": "Kellnerinnen"
+ },
+ {
+  "word": "Kette",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "chain",
+   "necklace"
+  ],
+  "he": [
+   "שרשרת"
+  ],
+  "plural": "Ketten"
+ },
+ {
+  "word": "Kind",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "child"
+  ],
+  "he": [
+   "ילד"
+  ],
+  "plural": "Kinder"
+ },
+ {
+  "word": "Kirche",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "church"
+  ],
+  "he": [
+   "כנסיה"
+  ],
+  "plural": "Kirchen"
+ },
+ {
+  "word": "Klamotte",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "clothes (colloquial)"
+  ],
+  "he": [
+   "בגדים"
+  ],
+  "plural": "Klamotten"
+ },
+ {
+  "word": "Kleid",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "dress"
+  ],
+  "he": [
+   "שמלה"
+  ],
+  "plural": "Kleider"
+ },
+ {
+  "word": "Kleidung",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "clothing"
+  ],
+  "he": [
+   "בגדים"
+  ],
+  "plural": "Kleidungen"
+ },
+ {
+  "word": "Kneipe",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "pub",
+   "bar"
+  ],
+  "he": [
+   "בר"
+  ],
+  "plural": "Kneipen"
+ },
+ {
+  "word": "Knoblauch",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "garlic"
+  ],
+  "he": [
+   "שום"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Koffer",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "suitcase"
+  ],
+  "he": [
+   "מזוודה"
+  ],
+  "plural": "Koffer"
+ },
+ {
+  "word": "Kollege",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "colleague (m.)"
+  ],
+  "he": [
+   "קולגה"
+  ],
+  "plural": "Kollegen"
+ },
+ {
+  "word": "Kollegin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "colleague (f.)"
+  ],
+  "he": [
+   "קולגה"
+  ],
+  "plural": "Kolleginnen"
+ },
+ {
+  "word": "Konzert",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "concert"
+  ],
+  "he": [
+   "קונצרט",
+   "הופעה"
+  ],
+  "plural": "Konzerte"
+ },
+ {
+  "word": "Kopf",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "head"
+  ],
+  "he": [
+   "ראש"
+  ],
+  "plural": "Köpfe"
+ },
+ {
+  "word": "Krankenschwester",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "nurse"
+  ],
+  "he": [
+   "(בבית חולים) אחות"
+  ],
+  "plural": "Krankenschwestern"
+ },
+ {
+  "word": "Krone",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "crown"
+  ],
+  "he": [
+   "כתר"
+  ],
+  "plural": "Kronen"
+ },
+ {
+  "word": "Kuchen",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "cake"
+  ],
+  "he": [
+   "עוגה"
+  ],
+  "plural": "Kuchen"
+ },
+ {
+  "word": "Kuh",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "cow"
+  ],
+  "he": [
+   "פרה"
+  ],
+  "plural": "Kühe"
+ },
+ {
+  "word": "Kuli",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "pen (ballpoint)"
+  ],
+  "he": [
+   "עט"
+  ],
+  "plural": "Kulis"
+ },
+ {
+  "word": "Kunde",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "customer (m.)"
+  ],
+  "he": [
+   "לקוח"
+  ],
+  "plural": "Kunden"
+ },
+ {
+  "word": "Kundin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "customer (f.)"
+  ],
+  "he": [
+   "לקוחה"
+  ],
+  "plural": "Kundinnen"
+ },
+ {
+  "word": "Kunst",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "art"
+  ],
+  "he": [
+   "אומנות"
+  ],
+  "plural": "Künste"
+ },
+ {
+  "word": "Kurs",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "course"
+  ],
+  "he": [
+   "קורס"
+  ],
+  "plural": "Kurse"
+ },
+ {
+  "word": "Kuss",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "kiss"
+  ],
+  "he": [
+   "נשיקה"
+  ],
+  "plural": "Küsse"
+ },
+ {
+  "word": "Käse",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "cheese"
+  ],
+  "he": [
+   "גבינה"
+  ],
+  "plural": "Käse"
+ },
+ {
+  "word": "König",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "king"
+  ],
+  "he": [
+   "מלך"
+  ],
+  "plural": "Könige"
+ },
+ {
+  "word": "Küche",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "kitchen"
+  ],
+  "he": [
+   "מטבח"
+  ],
+  "plural": "Küchen"
+ },
+ {
+  "word": "Künstler",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "artist"
+  ],
+  "he": [
+   "אמן"
+  ],
+  "plural": "Künstler"
+ },
+ {
+  "word": "Kürbis",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "pumpkin"
+  ],
+  "he": [
+   "דלעת"
+  ],
+  "plural": "Kürbisse"
+ },
+ {
+  "word": "Laden",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "shop",
+   "store"
+  ],
+  "he": [
+   "חנות"
+  ],
+  "plural": "Läden"
+ },
+ {
+  "word": "Lampe",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "lamp"
+  ],
+  "he": [
+   "מנורה"
+  ],
+  "plural": "Lampen"
+ },
+ {
+  "word": "Leben",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "life"
+  ],
+  "he": [
+   "חיים"
+  ],
+  "plural": "Leben"
+ },
+ {
+  "word": "Lehrer",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "teacher (m.)"
+  ],
+  "he": [
+   "מוֹרֶה"
+  ],
+  "plural": "Lehrer"
+ },
+ {
+  "word": "Lehrerin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "teacher (f.)"
+  ],
+  "he": [
+   "מוֹרָה"
+  ],
+  "plural": "Lehrerinnen"
+ },
+ {
+  "word": "Licht",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "light"
+  ],
+  "he": [
+   "אור"
+  ],
+  "plural": "Lichter"
+ },
+ {
+  "word": "Liebe",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "love"
+  ],
+  "he": [
+   "אהבה"
+  ],
+  "plural": "Lieben"
+ },
+ {
+  "word": "Lied",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "song"
+  ],
+  "he": [
+   "שיר"
+  ],
+  "plural": "Lieder"
+ },
+ {
+  "word": "Lust",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "desire",
+   "mood (to do something)"
+  ],
+  "he": [
+   "חשק"
+  ],
+  "plural": "Lüste"
+ },
+ {
+  "word": "Lärm",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "noise"
+  ],
+  "he": [
+   "רעש"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Löffel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "spoon"
+  ],
+  "he": [
+   "כף"
+  ],
+  "plural": "Löffel"
+ },
+ {
+  "word": "Löwe",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "lion"
+  ],
+  "he": [
+   "אריה"
+  ],
+  "plural": "Löwen"
+ },
+ {
+  "word": "Mahlzeit",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "meal"
+  ],
+  "he": [
+   "ארוחה"
+  ],
+  "plural": "Mahlzeiten"
+ },
+ {
+  "word": "Mai",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "May"
+  ],
+  "he": [
+   "מאי"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Mais",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "corn"
+  ],
+  "he": [
+   "תירס"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Mann",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "man",
+   "husband"
+  ],
+  "he": [
+   "איש",
+   "בעל"
+  ],
+  "plural": "Männer"
+ },
+ {
+  "word": "Marke",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "brand"
+  ],
+  "he": [
+   "מותג",
+   "חברה"
+  ],
+  "plural": "Marken"
+ },
+ {
+  "word": "Maschine",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "machine"
+  ],
+  "he": [
+   "מכונה"
+  ],
+  "plural": "Maschinen"
+ },
+ {
+  "word": "Mathe",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "math"
+  ],
+  "he": [
+   "מתמטיקה"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Medikament",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "medication"
+  ],
+  "he": [
+   "תרופה"
+  ],
+  "plural": "Medikamente"
+ },
+ {
+  "word": "Meer",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "sea"
+  ],
+  "he": [
+   "ים"
+  ],
+  "plural": "Meere"
+ },
+ {
+  "word": "Mensch",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "person",
+   "human"
+  ],
+  "he": [
+   "בן אדם"
+  ],
+  "plural": "Menschen"
+ },
+ {
+  "word": "Messer",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "knife"
+  ],
+  "he": [
+   "סכין"
+  ],
+  "plural": "Messer"
+ },
+ {
+  "word": "Milch",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "milk"
+  ],
+  "he": [
+   "חלב"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Mittag",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "midday",
+   "noon"
+  ],
+  "he": [
+   "צוהריים"
+  ],
+  "plural": "Mittage"
+ },
+ {
+  "word": "Mittwoch",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "Wednesday"
+  ],
+  "he": [
+   "יום רביעי"
+  ],
+  "plural": "Mittwoche"
+ },
+ {
+  "word": "Moment",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "moment"
+  ],
+  "he": [
+   "רגע"
+  ],
+  "plural": "Momente"
+ },
+ {
+  "word": "Monat",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "month"
+  ],
+  "he": [
+   "חודש"
+  ],
+  "plural": "Monate"
+ },
+ {
+  "word": "Montag",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "Monday"
+  ],
+  "he": [
+   "יום שני"
+  ],
+  "plural": "Montage"
+ },
+ {
+  "word": "Musik",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "music"
+  ],
+  "he": [
+   "מוזיקה"
+  ],
+  "plural": "Musiken"
+ },
+ {
+  "word": "Mädchen",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "girl"
+  ],
+  "he": [
+   "ילדה",
+   "נערה"
+  ],
+  "plural": "Mädchen"
+ },
+ {
+  "word": "Mädchenname",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "maiden name"
+  ],
+  "he": [
+   "שם נעורים"
+  ],
+  "plural": "Mädchennamen"
+ },
+ {
+  "word": "März",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "March"
+  ],
+  "he": [
+   "מרץ"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Nachbar",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "neighbor"
+  ],
+  "he": [
+   "שכן"
+  ],
+  "plural": "Nachbarn"
+ },
+ {
+  "word": "Nachricht",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "message"
+  ],
+  "he": [
+   "הודעה"
+  ],
+  "plural": "Nachrichten"
+ },
+ {
+  "word": "Nase",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "nose"
+  ],
+  "he": [
+   "אף"
+  ],
+  "plural": "Nasen"
+ },
+ {
+  "word": "Neffe",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "nephew"
+  ],
+  "he": [
+   "אחיין"
+  ],
+  "plural": "Neffen"
+ },
+ {
+  "word": "Nichte",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "niece"
+  ],
+  "he": [
+   "אחיינית"
+  ],
+  "plural": "Nichten"
+ },
+ {
+  "word": "November",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "November"
+  ],
+  "he": [
+   "נובמבר"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Nummer",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "number"
+  ],
+  "he": [
+   "מספר"
+  ],
+  "plural": "Nummern"
+ },
+ {
+  "word": "Obst",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "fruit"
+  ],
+  "he": [
+   "פרי"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Oktober",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "October"
+  ],
+  "he": [
+   "אוקטובר"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Oma",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "grandma"
+  ],
+  "he": [
+   "סבתא"
+  ],
+  "plural": "Omas"
+ },
+ {
+  "word": "Ort",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "place"
+  ],
+  "he": [
+   "מקום"
+  ],
+  "plural": "Orte"
+ },
+ {
+  "word": "Pfanne",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "pan"
+  ],
+  "he": [
+   "מחבת"
+  ],
+  "plural": "Pfannen"
+ },
+ {
+  "word": "Pferd",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "horse"
+  ],
+  "he": [
+   "סוס"
+  ],
+  "plural": "Pferde"
+ },
+ {
+  "word": "Picknick",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "picnic"
+  ],
+  "he": [
+   "פיקניק"
+  ],
+  "plural": "Picknicks"
+ },
+ {
+  "word": "Platz",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "place",
+   "square"
+  ],
+  "he": [
+   "מקום"
+  ],
+  "plural": "Plätze"
+ },
+ {
+  "word": "Polizist",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "police officer"
+  ],
+  "he": [
+   "שוטר"
+  ],
+  "plural": "Polizisten"
+ },
+ {
+  "word": "Postleitzahl",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "postal code"
+  ],
+  "he": [
+   "מיקוד"
+  ],
+  "plural": "Postleitzahlen"
+ },
+ {
+  "word": "Problem",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "problem"
+  ],
+  "he": [
+   "בעיה"
+  ],
+  "plural": "Probleme"
+ },
+ {
+  "word": "Programmierer",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "programmer"
+  ],
+  "he": [
+   "מתכנת"
+  ],
+  "plural": "Programmierer"
+ },
+ {
+  "word": "Präsidentin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "president (f.)"
+  ],
+  "he": [
+   "נשיאה"
+  ],
+  "plural": "Präsidentinnen"
+ },
+ {
+  "word": "Prüfung",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "exam"
+  ],
+  "he": [
+   "בחינה"
+  ],
+  "plural": "Prüfungen"
+ },
+ {
+  "word": "Pudding",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "pudding"
+  ],
+  "he": [
+   "פודינג"
+  ],
+  "plural": "Puddings"
+ },
+ {
+  "word": "Pulli",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "sweater (colloquial)"
+  ],
+  "he": [
+   "פולובר"
+  ],
+  "plural": "Pullis"
+ },
+ {
+  "word": "Rabatt",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "discount"
+  ],
+  "he": [
+   "הנחה"
+  ],
+  "plural": "Rabatte"
+ },
+ {
+  "word": "Rede",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "speech"
+  ],
+  "he": [
+   "נאום"
+  ],
+  "plural": "Reden"
+ },
+ {
+  "word": "Reise",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "trip",
+   "journey"
+  ],
+  "he": [
+   "מסע",
+   "טיול ארוך"
+  ],
+  "plural": "Reisen"
+ },
+ {
+  "word": "Rentner",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "retiree",
+   "pensioner"
+  ],
+  "he": [
+   "גמלאי"
+  ],
+  "plural": "Rentner"
+ },
+ {
+  "word": "Rindfleisch",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "beef"
+  ],
+  "he": [
+   "בשר בקר"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Roman",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "novel"
+  ],
+  "he": [
+   "רומן"
+  ],
+  "plural": "Romane"
+ },
+ {
+  "word": "Rucksack",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "backpack"
+  ],
+  "he": [
+   "תיק גב"
+  ],
+  "plural": "Rucksäcke"
+ },
+ {
+  "word": "Sache",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "thing"
+  ],
+  "he": [
+   "דבר"
+  ],
+  "plural": "Sachen"
+ },
+ {
+  "word": "Samstag",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "Saturday"
+  ],
+  "he": [
+   "שבת"
+  ],
+  "plural": "Samstage"
+ },
+ {
+  "word": "Satz",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "sentence"
+  ],
+  "he": [
+   "משפט"
+  ],
+  "plural": "Sätze"
+ },
+ {
+  "word": "Schloss",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "castle",
+   "lock"
+  ],
+  "he": [
+   "מנעול",
+   "טירה"
+  ],
+  "plural": "Schlösser"
+ },
+ {
+  "word": "Schlüssel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "key"
+  ],
+  "he": [
+   "מפתח"
+  ],
+  "plural": "Schlüssel"
+ },
+ {
+  "word": "Schnee",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "snow"
+  ],
+  "he": [
+   "שלג"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Schnitzel",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "schnitzel"
+  ],
+  "he": [
+   "שניצל"
+  ],
+  "plural": "Schnitzel"
+ },
+ {
+  "word": "Schokolade",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "chocolate"
+  ],
+  "he": [
+   "שוקולד"
+  ],
+  "plural": "Schokoladen"
+ },
+ {
+  "word": "Schrank",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "cupboard",
+   "wardrobe"
+  ],
+  "he": [
+   "ארון"
+  ],
+  "plural": "Schränke"
+ },
+ {
+  "word": "Schuh",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "shoe"
+  ],
+  "he": [
+   "נעל"
+  ],
+  "plural": "Schuhe"
+ },
+ {
+  "word": "Schule",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "school"
+  ],
+  "he": [
+   "בית ספר"
+  ],
+  "plural": "Schulen"
+ },
+ {
+  "word": "Schulleiterin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "school principal (f.)"
+  ],
+  "he": [
+   "מנהלת"
+  ],
+  "plural": "Schulleiterinnen"
+ },
+ {
+  "word": "Schwester",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "sister"
+  ],
+  "he": [
+   "אחות"
+  ],
+  "plural": "Schwestern"
+ },
+ {
+  "word": "Schwimmen",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "swimming"
+  ],
+  "he": [
+   "שחיה"
+  ],
+  "plural": "Schwimmen"
+ },
+ {
+  "word": "Schüler",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "student (m.)"
+  ],
+  "he": [
+   "תלמיד"
+  ],
+  "plural": "Schüler"
+ },
+ {
+  "word": "Schülerin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "student (f.)"
+  ],
+  "he": [
+   "תלמידה"
+  ],
+  "plural": "Schülerinnen"
+ },
+ {
+  "word": "Seite",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "side",
+   "page"
+  ],
+  "he": [
+   "עמוד"
+  ],
+  "plural": "Seiten"
+ },
+ {
+  "word": "Sekretärin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "secretary (f.)"
+  ],
+  "he": [
+   "מזכירה"
+  ],
+  "plural": "Sekretärinnen"
+ },
+ {
+  "word": "September",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "September"
+  ],
+  "he": [
+   "ספטמבר"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Shirt",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "shirt (t-shirt)"
+  ],
+  "he": [
+   "חולצה"
+  ],
+  "plural": "Shirts"
+ },
+ {
+  "word": "Sofa",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "sofa"
+  ],
+  "he": [
+   "ספה"
+  ],
+  "plural": "Sofas"
+ },
+ {
+  "word": "Sohn",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "son"
+  ],
+  "he": [
+   "בן"
+  ],
+  "plural": "Söhne"
+ },
+ {
+  "word": "Sommer",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "summer"
+  ],
+  "he": [
+   "קיץ"
+  ],
+  "plural": "Sommer"
+ },
+ {
+  "word": "Sonntag",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "Sunday"
+  ],
+  "he": [
+   "יום ראשון"
+  ],
+  "plural": "Sonntage"
+ },
+ {
+  "word": "Sorge",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "worry"
+  ],
+  "he": [
+   "דאגה"
+  ],
+  "plural": "Sorgen"
+ },
+ {
+  "word": "Spaß",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "fun"
+  ],
+  "he": [
+   "כיף"
+  ],
+  "plural": "Späße"
+ },
+ {
+  "word": "Spiegel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "mirror"
+  ],
+  "he": [
+   "ראי"
+  ],
+  "plural": "Spiegel"
+ },
+ {
+  "word": "Spiel",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "game"
+  ],
+  "he": [
+   "משחק"
+  ],
+  "plural": "Spiele"
+ },
+ {
+  "word": "Sprache",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "language"
+  ],
+  "he": [
+   "שפה"
+  ],
+  "plural": "Sprachen"
+ },
+ {
+  "word": "Stadt",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "city"
+  ],
+  "he": [
+   "עיר"
+  ],
+  "plural": "Städte"
+ },
+ {
+  "word": "Stift",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "pen"
+  ],
+  "he": [
+   "עט"
+  ],
+  "plural": "Stifte"
+ },
+ {
+  "word": "Stimmung",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "mood"
+  ],
+  "he": [
+   "אווירה",
+   "מצב רוח"
+  ],
+  "plural": "Stimmungen"
+ },
+ {
+  "word": "Strafzettel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "parking",
+   "traffic ticket"
+  ],
+  "he": [
+   "קנס"
+  ],
+  "plural": "Strafzettel"
+ },
+ {
+  "word": "Strand",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "beach"
+  ],
+  "he": [
+   "חוף"
+  ],
+  "plural": "Strände"
+ },
+ {
+  "word": "Stuhl",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "chair"
+  ],
+  "he": [
+   "כיסא"
+  ],
+  "plural": "Stühle"
+ },
+ {
+  "word": "Stunde",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "hour"
+  ],
+  "he": [
+   "שעה"
+  ],
+  "plural": "Stunden"
+ },
+ {
+  "word": "Supermarkt",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "supermarket"
+  ],
+  "he": [
+   "סופרמרקט"
+  ],
+  "plural": "Supermärkte"
+ },
+ {
+  "word": "Suppe",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "soup"
+  ],
+  "he": [
+   "מרק"
+  ],
+  "plural": "Suppen"
+ },
+ {
+  "word": "Süßigkeit",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "sweet",
+   "candy"
+  ],
+  "he": [
+   "ממתק"
+  ],
+  "plural": "Süßigkeiten"
+ },
+ {
+  "word": "Tag",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "day"
+  ],
+  "he": [
+   "יום"
+  ],
+  "plural": "Tage"
+ },
+ {
+  "word": "Tante",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "aunt"
+  ],
+  "he": [
+   "דודה"
+  ],
+  "plural": "Tanten"
+ },
+ {
+  "word": "Tasche",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "bag"
+  ],
+  "he": [
+   "תיק",
+   "כיס"
+  ],
+  "plural": "Taschen"
+ },
+ {
+  "word": "Teelöffel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "teaspoon"
+  ],
+  "he": [
+   "כפית"
+  ],
+  "plural": "Teelöffel"
+ },
+ {
+  "word": "Teller",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "plate"
+  ],
+  "he": [
+   "צלחת"
+  ],
+  "plural": "Teller"
+ },
+ {
+  "word": "Termin",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "appointment"
+  ],
+  "he": [
+   "פגישה",
+   "תור"
+  ],
+  "plural": "Termine"
+ },
+ {
+  "word": "Text",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "text"
+  ],
+  "he": [
+   "טקסט"
+  ],
+  "plural": "Texte"
+ },
+ {
+  "word": "Theater",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "theater"
+  ],
+  "he": [
+   "תיאטרון"
+  ],
+  "plural": "Theater"
+ },
+ {
+  "word": "Tier",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "animal"
+  ],
+  "he": [
+   "חיה"
+  ],
+  "plural": "Tiere"
+ },
+ {
+  "word": "Tisch",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "table"
+  ],
+  "he": [
+   "שולחן"
+  ],
+  "plural": "Tische"
+ },
+ {
+  "word": "Tochter",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "daughter"
+  ],
+  "he": [
+   "בת"
+  ],
+  "plural": "Töchter"
+ },
+ {
+  "word": "Topf",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "pot"
+  ],
+  "he": [
+   "סיר"
+  ],
+  "plural": "Töpfe"
+ },
+ {
+  "word": "Tür",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "door"
+  ],
+  "he": [
+   "דלת"
+  ],
+  "plural": "Türen"
+ },
+ {
+  "word": "Ufer",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "bank",
+   "shore"
+  ],
+  "he": [
+   "חוף"
+  ],
+  "plural": "Ufer"
+ },
+ {
+  "word": "Uhr",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "o'clock"
+  ],
+  "he": [
+   "שעה"
+  ],
+  "plural": null
+ },
+ {
+  "word": "Universität",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "university"
+  ],
+  "he": [
+   "אוניברסיטה"
+  ],
+  "plural": "Universitäten"
+ },
+ {
+  "word": "Urlaub",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "vacation"
+  ],
+  "he": [
+   "חופשה"
+  ],
+  "plural": "Urlaube"
+ },
+ {
+  "word": "Verhalten",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "behavior"
+  ],
+  "he": [
+   "התנהגות"
+  ],
+  "plural": "Verhalten"
+ },
+ {
+  "word": "Verkäufer",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "salesman"
+  ],
+  "he": [
+   "מוכר"
+  ],
+  "plural": "Verkäufer"
+ },
+ {
+  "word": "Verkäuferin",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "saleswoman"
+  ],
+  "he": [
+   "מוכרת"
+  ],
+  "plural": "Verkäuferinnen"
+ },
+ {
+  "word": "Verspätung",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "delay"
+  ],
+  "he": [
+   "איחור",
+   "עיכוב"
+  ],
+  "plural": "Verspätungen"
+ },
+ {
+  "word": "Vogel",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "bird"
+  ],
+  "he": [
+   "ציפור"
+  ],
+  "plural": "Vögel"
+ },
+ {
+  "word": "Vorname",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "first name"
+  ],
+  "he": [
+   "שם פרטי"
+  ],
+  "plural": "Vornamen"
+ },
+ {
+  "word": "Wahrheit",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "truth"
+  ],
+  "he": [
+   "אמת"
+  ],
+  "plural": "Wahrheiten"
+ },
+ {
+  "word": "Wald",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "forest"
+  ],
+  "he": [
+   "יער"
+  ],
+  "plural": "Wälder"
+ },
+ {
+  "word": "Wecker",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "alarm clock"
+  ],
+  "he": [
+   "שעון מעורר"
+  ],
+  "plural": "Wecker"
+ },
+ {
+  "word": "Weihnachten",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "Christmas"
+  ],
+  "he": [
+   "חג המולד"
+  ],
+  "plural": "Weihnachten"
+ },
+ {
+  "word": "Wein",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "wine"
+  ],
+  "he": [
+   "יין"
+  ],
+  "plural": "Weine"
+ },
+ {
+  "word": "Winter",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "winter"
+  ],
+  "he": [
+   "חורף"
+  ],
+  "plural": "Winter"
+ },
+ {
+  "word": "Witz",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "joke"
+  ],
+  "he": [
+   "בדיחה"
+  ],
+  "plural": "Witze"
+ },
+ {
+  "word": "Woche",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "week"
+  ],
+  "he": [
+   "שבוע"
+  ],
+  "plural": "Wochen"
+ },
+ {
+  "word": "Wochenende",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "weekend"
+  ],
+  "he": [
+   "סוף שבוע"
+  ],
+  "plural": "Wochenenden"
+ },
+ {
+  "word": "Wort",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "word"
+  ],
+  "he": [
+   "מילה"
+  ],
+  "plural": "Wörter"
+ },
+ {
+  "word": "Wurst",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "sausage"
+  ],
+  "he": [
+   "נקניק"
+  ],
+  "plural": "Würste"
+ },
+ {
+  "word": "Zahl",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "number",
+   "digit"
+  ],
+  "he": [
+   "מספר",
+   "ספרה"
+  ],
+  "plural": "Zahlen"
+ },
+ {
+  "word": "Zeit",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "time"
+  ],
+  "he": [
+   "זמן"
+  ],
+  "plural": "Zeiten"
+ },
+ {
+  "word": "Zeitung",
+  "genders": [
+   "f"
+  ],
+  "en": [
+   "newspaper"
+  ],
+  "he": [
+   "עיתון"
+  ],
+  "plural": "Zeitungen"
+ },
+ {
+  "word": "Zimmer",
+  "genders": [
+   "n"
+  ],
+  "en": [
+   "room"
+  ],
+  "he": [
+   "חדר"
+  ],
+  "plural": "Zimmer"
+ },
+ {
+  "word": "Zucker",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "sugar"
+  ],
+  "he": [
+   "סוכר"
+  ],
+  "plural": "Zucker"
+ },
+ {
+  "word": "Zug",
+  "genders": [
+   "m"
+  ],
+  "en": [
+   "train"
+  ],
+  "he": [
+   "רכבת"
+  ],
+  "plural": "Züge"
+ }
+]
