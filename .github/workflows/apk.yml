@@ -1,0 +1,55 @@
+name: Build APK
+
+# Runs on every push to main and on demand. Each run tests the app, builds a
+# release APK and publishes it as the "latest" GitHub release, so the newest
+# APK is always at:
+# https://github.com/natibs/der-die-das/releases/latest/download/der-die-das.apk
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apk
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - run: flutter pub get
+      - run: flutter test
+      - run: flutter build apk --release
+
+      - name: Rename APK
+        run: cp build/app/outputs/flutter-apk/app-release.apk der-die-das.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: der-die-das-apk
+          path: der-die-das.apk
+
+      - name: Publish as the latest release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete latest --yes --cleanup-tag 2>/dev/null || true
+          gh release create latest der-die-das.apk \
+            --title "Der Die Das (latest build)" \
+            --notes "Built from ${GITHUB_SHA::7}. On Android: open der-die-das.apk, allow installing from this source, then Install." \
+            --latest
