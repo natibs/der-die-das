@@ -29,3 +29,23 @@ LookupQuery? parseQuery(String input) {
   s = s[0].toUpperCase() + s.substring(1);
   return LookupQuery(s, typed);
 }
+
+const _namedEntities = {
+  'amp': '&', 'lt': '<', 'gt': '>', 'quot': '"', 'apos': "'", 'nbsp': ' ',
+  'ndash': '–', 'mdash': '—', 'lsquo': '‘', 'rsquo': '’', 'ldquo': '“', 'rdquo': '”',
+};
+
+/// Decodes HTML entities (&apos;, &#39;, &#x27;, &amp;...) that some
+/// translation APIs return inside plain-text results.
+String decodeHtmlEntities(String s) {
+  if (!s.contains('&')) return s;
+  return s.replaceAllMapped(RegExp(r'&(#[xX][0-9a-fA-F]+|#\d+|[a-zA-Z]+);'), (m) {
+    final e = m[1]!;
+    if (e.startsWith('#')) {
+      final hex = e.length > 1 && (e[1] == 'x' || e[1] == 'X');
+      final code = int.tryParse(e.substring(hex ? 2 : 1), radix: hex ? 16 : 10);
+      return code == null || code > 0x10FFFF ? m[0]! : String.fromCharCode(code);
+    }
+    return _namedEntities[e.toLowerCase()] ?? m[0]!;
+  });
+}

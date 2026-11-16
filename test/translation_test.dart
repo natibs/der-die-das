@@ -7,7 +7,17 @@ void main() {
     expect(cleanCandidates(['"אימא"', '-אימא.'], 'Mutter'), ['אימא']);
     expect(cleanCandidates(['-אני לא יודע מה זה.'], 'Leute'), isEmpty); // real MyMemory junk
     expect(cleanCandidates(['Mutter'], 'Mutter'), isEmpty);
+    expect(cleanCandidates(['ג&apos;ונגל', 'ג&#39;ונגל'], 'Jungle'), ["ג'ונגל"]); // MyMemory returns HTML entities
+    expect(cleanCandidates(['aujourd’hui', '‘Tom &amp; Jerry’'], 'Heute'), ['aujourd’hui', 'Tom & Jerry']);
     expect(cleanCandidates(['papillon', 'Papillon', 'lépidoptère'], 'Schmetterling'), ['papillon', 'lépidoptère']);
+  });
+
+  test('words saved with HTML entities are repaired on load', () {
+    final e = NounEntry.fromOfflineJson({
+      'word': 'Jungle', 'genders': ['m'], 'en': ['jungle'], 'src': 'saved',
+      'tr': {'he': ['ג&apos;ונגל']}, 'mt': {'he': 'MyMemory'},
+    });
+    expect(e.translations['he'], ["ג'ונגל"]);
   });
 
   test('saved entries survive a JSON round trip', () {

@@ -3,6 +3,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
+import '../core/text_utils.dart' show decodeHtmlEntities;
 import 'wiktionary.dart' show LookupOfflineException;
 
 /// Fallback translators, used only when Wiktionary has no translation for the
@@ -29,14 +30,16 @@ class TranslatorChain {
   }
 }
 
+/// Spaces, dashes, punctuation and quotes at either end of a candidate.
+final _edgeJunk = RegExp(r'''^[\s\-–—.,;:!?¿¡"'“”„«»‚‘’]+|[\s\-–—.,;:!?¿¡"'“”„«»‚‘’]+$''');
+
 /// Keeps a translation only if it looks like a word, not a sentence or junk.
 List<String> cleanCandidates(Iterable<String> raw, String source, {int limit = 2}) {
   final out = <String>[];
   for (var s in raw) {
-    s = s
-        .replaceAll(RegExp('["“”„«»‚‘’]'), '')
-        .replaceAll(RegExp(r'^[\s\-–—.,;:!?¿¡]+|[\s\-–—.,;:!?¿¡]+$'), '')
-        .trim();
+    // Quotes only at the edges: an apostrophe inside a word is part of it
+    // (Hebrew ג'ונגל, French aujourd'hui).
+    s = decodeHtmlEntities(s).replaceAll(_edgeJunk, '').trim();
     if (s.isEmpty || s.length > 40) continue;
     if (RegExp(r'\d').hasMatch(s)) continue;
     if (s.split(RegExp(r'\s+')).length > 3) continue; // a phrase, not a noun
