@@ -225,7 +225,7 @@ abstract final class WiktionaryParser {
     final out = <String, List<String>>{};
     void add(String code, String raw) {
       var w = cleanValue(raw);
-      if (code == 'he' || code == 'yi') w = stripNiqqud(w);
+      if (code == 'he' || code == 'yi') w = hebrewPunctuation(stripNiqqud(w));
       final list = out.putIfAbsent(code, () => <String>[]);
       if (w.isNotEmpty && !list.contains(w) && list.length < limit) list.add(w);
     }

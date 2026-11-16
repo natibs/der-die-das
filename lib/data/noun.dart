@@ -1,4 +1,4 @@
-import '../core/text_utils.dart' show decodeHtmlEntities;
+import '../core/text_utils.dart' show cleanTranslation;
 
 enum Gender {
   masculine('der', 'masculine', 'זכר'),
@@ -144,7 +144,7 @@ class NounEntry {
   factory NounEntry.fromOfflineJson(Map<String, dynamic> j) {
     final plural = j['plural'] as String?;
     final tr = (j['tr'] as Map<String, dynamic>? ?? const {})
-        .map((k, v) => MapEntry(k, [for (final t in v as List) decodeHtmlEntities('$t')])); // repairs words saved before entity decoding
+        .map((k, v) => MapEntry(k, [for (final t in v as List) cleanTranslation('$t')])); // repairs words saved before entities/geresh were handled
     final a1 = j['src'] == 'a1';
     final saved = j['src'] == 'saved';
     return NounEntry(

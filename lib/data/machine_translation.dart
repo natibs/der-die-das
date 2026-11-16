@@ -3,7 +3,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-import '../core/text_utils.dart' show decodeHtmlEntities;
+import '../core/text_utils.dart' show decodeHtmlEntities, hebrewPunctuation;
 import 'wiktionary.dart' show LookupOfflineException;
 
 /// Fallback translators, used only when Wiktionary has no translation for the
@@ -39,7 +39,7 @@ List<String> cleanCandidates(Iterable<String> raw, String source, {int limit = 2
   for (var s in raw) {
     // Quotes only at the edges: an apostrophe inside a word is part of it
     // (Hebrew ג'ונגל, French aujourd'hui).
-    s = decodeHtmlEntities(s).replaceAll(_edgeJunk, '').trim();
+    s = hebrewPunctuation(decodeHtmlEntities(s).replaceAll(_edgeJunk, '').trim());
     if (s.isEmpty || s.length > 40) continue;
     if (RegExp(r'\d').hasMatch(s)) continue;
     if (s.split(RegExp(r'\s+')).length > 3) continue; // a phrase, not a noun

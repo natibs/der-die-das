@@ -49,3 +49,13 @@ String decodeHtmlEntities(String s) {
     return _namedEntities[e.toLowerCase()] ?? m[0]!;
   });
 }
+
+/// Hebrew uses its own geresh (׳) and gershayim (״), not the Latin ' and ".
+/// The Latin marks come from the Latin font, so they render with a visible gap
+/// next to Hebrew letters (ג' ונגל); the Hebrew ones sit right (ג׳ונגל).
+String hebrewPunctuation(String s) => s
+    .replaceAllMapped(RegExp('([א-ת])["“”]([א-ת])'), (m) => '${m[1]}״${m[2]}')
+    .replaceAllMapped(RegExp("([א-ת])['’‘`´]"), (m) => '${m[1]}׳');
+
+/// Decodes HTML entities and fixes Hebrew punctuation in a translation.
+String cleanTranslation(String s) => hebrewPunctuation(decodeHtmlEntities(s));
